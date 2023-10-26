@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Endothermic-Dragon&size_weight=0.5&count_weight=0.5&layout=donut-vertical&hide=jupyter%20notebook&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api/?username=Endothermic-Dragon&theme=synthwave)
