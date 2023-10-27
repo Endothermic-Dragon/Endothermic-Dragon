@@ -52,6 +52,15 @@
   - Team "hackboro" ranked 252nd out of 780 teams in [LA CTF 2023](https://ctftime.org/event/1732)
 - USACO - silver division
 - Fast Attendance
+  - Developed during pandemic
+  - Teachers were spending up to a fifth of class time taking attendance
+  - Reduced process to a simple button click
+  - Can order people by first or last name
+    - Account for differences in rosters by school
+  - Many teachers found it useful
+  - Featured on Chrome Web Store
+    - "Follow our technical best practices"
+    - "Meet a high standard of user experience and design"
 - Avid member of Science Olympiad
   - Usually do physics or builds
   - Perform well in CS-based events in invitationals
