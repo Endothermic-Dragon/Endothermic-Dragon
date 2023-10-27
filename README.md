@@ -7,6 +7,11 @@
 - Focuses on physics simulations, web dev, full-stack dev, cybersecurity, responsive UI
   - Interested in algorithms, machine learning, artificial intelligence
 
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Endothermic-Dragon&size_weight=0.5&count_weight=0.5&layout=donut-vertical&hide=jupyter%20notebook&theme=synthwave)
+
+![](https://github-readme-stats.vercel.app/api/?username=Endothermic-Dragon&theme=synthwave)
+
 ## Programming Skills
 - Strengths - data structures, functional programming, declarative, object-oriented programming, code optimization, user-friendly interfaces, database planning, management, and analysis
 - Amazon Web Services - Lambda, API Gateway, Identity and Access Management, DynamoDB Databases, etc.
@@ -51,8 +56,3 @@
   - Usually do physics or builds
   - Perform well in CS-based events in invitationals
     - Unfortunately no CS events in regionals or states in past years :\(
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Endothermic-Dragon&size_weight=0.5&count_weight=0.5&layout=donut-vertical&hide=jupyter%20notebook&theme=synthwave)
-
-![](https://github-readme-stats.vercel.app/api/?username=Endothermic-Dragon&theme=synthwave)
