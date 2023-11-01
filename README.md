@@ -4,8 +4,8 @@
 - Interested in pretty much anything you can think of in CS
 - Planning to go to college to study CS, physics, and math
 - Plan to be a CS professor in the future, as I like research and love teaching
-- Focuses on physics simulations, web dev, full-stack dev, cybersecurity, responsive UI
-  - Interested in algorithms, machine learning, artificial intelligence
+- Primarily interested in physics simulations, web dev, full-stack dev, cybersecurity, responsive UI
+  - Also interested in algorithms, machine learning, artificial intelligence
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Endothermic-Dragon&size_weight=0.5&count_weight=0.5&layout=donut-vertical&hide=jupyter%20notebook&theme=synthwave)
