@@ -3,7 +3,9 @@
   - I'm a transgender nonbinary programmer!
 - Interested in pretty much anything you can think of in CS
 - Planning to go to college to study CS, physics, and math
-- Plan to be a CS professor in the future, as I like research and love teaching
+- Potential future plans
+  - CS professor: I like research and love teaching
+  - Software developer: I love programming, regardless of kind
 - Primarily interested in physics simulations, web dev, full-stack dev, cybersecurity, responsive UI
   - Also interested in algorithms, machine learning, artificial intelligence
 
