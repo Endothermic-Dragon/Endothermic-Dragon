@@ -47,6 +47,8 @@
     - High-security as dealing with sensitive student data
     - Technologies: Flask, Babel, PostCSS, Autoprefixer, SASS, AWS Lambda, DynamoDB, NodeJS, Python
 - CTFs
+  - Team "hackboro" ranked 251st out of 6957 teams globally in [picoCTF 2023](https://picoctf.org/competitions/2024-spring.html)
+    - Also ranked 34th out of 1329 US middle/high school teams
   - Team "hackboro" ranked 191st out of 6924 teams globally in [picoCTF 2023](https://picoctf.org/competitions/2023-spring.html)
     - Also ranked 44th out of 1498 US middle/high school teams
   - Team "Raiders" ranked 10th out of 62 teams in [STEM CTF: Cyber Challenge 2022](https://ctftime.org/event/1762)
