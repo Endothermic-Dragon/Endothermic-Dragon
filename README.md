@@ -39,13 +39,8 @@
   - \>250 hours of volunteering
   - Received President’s Volunteer Service Award (Gold rank) twice
 - Robotics
-  - Lead Mentor of First Lego League Competition
-  - Outreach Website Manager
-  - Passion Project - Student Outreach and Attendance Tracking Website (under development)
-    - Development head of Software Development initiative
-    - Keeps track of students, their attendance, outreach, initiatives, etc. - basically anything Robotics needs to track - on a centralized platform
-    - High-security as dealing with sensitive student data
-    - Technologies: Flask, Babel, PostCSS, Autoprefixer, SASS, AWS Lambda, DynamoDB, NodeJS, Python
+  - Lead Mentor of First Lego League Competition (2023)
+  - Outreach Website Manager (2021-2024)
 - CTFs
   - Team "hackboro" ranked 251st out of 6957 teams globally in [picoCTF 2023](https://picoctf.org/competitions/2024-spring.html)
     - Also ranked 34th out of 1329 US middle/high school teams
