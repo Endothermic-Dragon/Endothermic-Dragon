@@ -1,6 +1,6 @@
-## About me
-- Pronouns: they/them
-  - I'm a transgender nonbinary programmer!
+## About Me
+- I'm a transgender nonbinary programmer!
+  - Pronouns: they/them
 - Interested in pretty much anything you can think of in CS
 - Planning to go to college to study CS, physics, and math
 - Potential future plans
